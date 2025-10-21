@@ -1,0 +1,996 @@
+"Relationship": "indirect",
+          "Locations": [
+            {
+              "StartLine": 1617,
+              "EndLine": 1620
+            }
+          ]
+        },
+        {
+          "ID": "sucrase@3.28.0",
+          "Name": "sucrase",
+          "Identifier": {
+            "PURL": "pkg:npm/sucrase@3.28.0",
+            "UID": "afd9e08ec76cd283"
+          },
+          "Version": "3.28.0",
+          "Indirect": true,
+          "Relationship": "indirect",
+          "DependsOn": [
+            "commander@4.1.1",
+            "glob@7.1.6",
+            "lines-and-columns@1.2.4",
+            "mz@2.7.0",
+            "pirates@4.0.5",
+            "ts-interface-checker@0.1.13"
+          ],
+          "Locations": [
+            {
+              "StartLine": 1622,
+              "EndLine": 1632
+            }
+          ]
+        },
+        {
+          "ID": "supports-color@5.5.0",
+          "Name": "supports-color",
+          "Identifier": {
+            "PURL": "pkg:npm/supports-color@5.5.0",
+            "UID": "53b75c50b63a9523"
+          },
+          "Version": "5.5.0",
+          "Indirect": true,
+          "Relationship": "indirect",
+          "DependsOn": [
+            "has-flag@3.0.0"
+          ],
+          "Locations": [
+            {
+              "StartLine": 1634,
+              "EndLine": 1639
+            }
+          ]
+        },
+        {
+          "ID": "supports-preserve-symlinks-flag@1.0.0",
+          "Name": "supports-preserve-symlinks-flag",
+          "Identifier": {
+            "PURL": "pkg:npm/supports-preserve-symlinks-flag@1.0.0",
+            "UID": "da6c63fb67486dc8"
+          },
+          "Version": "1.0.0",
+          "Indirect": true,
+          "Relationship": "indirect",
+          "Locations": [
+            {
+              "StartLine": 1641,
+              "EndLine": 1644
+            }
+          ]
+        },
+        {
+          "ID": "thenify@3.3.1",
+          "Name": "thenify",
+          "Identifier": {
+            "PURL": "pkg:npm/thenify@3.3.1",
+            "UID": "4db8936fd3b84495"
+          },
+          "Version": "3.3.1",
+          "Indirect": true,
+          "Relationship": "indirect",
+          "DependsOn": [
+            "any-promise@1.3.0"
+          ],
+          "Locations": [
+            {
+              "StartLine": 1653,
+              "EndLine": 1658
+            }
+          ]
+        },
+        {
+          "ID": "thenify-all@1.6.0",
+          "Name": "thenify-all",
+          "Identifier": {
+            "PURL": "pkg:npm/thenify-all@1.6.0",
+            "UID": "18b2f8d33d841d1"
+          },
+          "Version": "1.6.0",
+          "Indirect": true,
+          "Relationship": "indirect",
+          "DependsOn": [
+            "thenify@3.3.1"
+          ],
+          "Locations": [
+            {
+              "StartLine": 1646,
+              "EndLine": 1651
+            }
+          ]
+        },
+        {
+          "ID": "to-fast-properties@2.0.0",
+          "Name": "to-fast-properties",
+          "Identifier": {
+            "PURL": "pkg:npm/to-fast-properties@2.0.0",
+            "UID": "109e1352f0719751"
+          },
+          "Version": "2.0.0",
+          "Indirect": true,
+          "Relationship": "indirect",
+          "Locations": [
+            {
+              "StartLine": 1660,
+              "EndLine": 1663
+            }
+          ]
+        },
+        {
+          "ID": "ts-interface-checker@0.1.13",
+          "Name": "ts-interface-checker",
+          "Identifier": {
+            "PURL": "pkg:npm/ts-interface-checker@0.1.13",
+            "UID": "77b8b525303c64b"
+          },
+          "Version": "0.1.13",
+          "Indirect": true,
+          "Relationship": "indirect",
+          "Locations": [
+            {
+              "StartLine": 1665,
+              "EndLine": 1668
+            }
+          ]
+        },
+        {
+          "ID": "tsconfig-paths@4.1.0",
+          "Name": "tsconfig-paths",
+          "Identifier": {
+            "PURL": "pkg:npm/tsconfig-paths@4.1.0",
+            "UID": "5716746f401a2d0e"
+          },
+          "Version": "4.1.0",
+          "Indirect": true,
+          "Relationship": "indirect",
+          "DependsOn": [
+            "json5@2.2.1",
+            "minimist@1.2.7",
+            "strip-bom@3.0.0"
+          ],
+          "Locations": [
+            {
+              "StartLine": 1670,
+              "EndLine": 1677
+            }
+          ]
+        },
+        {
+          "ID": "tslib@1.14.1",
+          "Name": "tslib",
+          "Identifier": {
+            "PURL": "pkg:npm/tslib@1.14.1",
+            "UID": "b7a12502e02b40a3"
+          },
+          "Version": "1.14.1",
+          "Indirect": true,
+          "Relationship": "indirect",
+          "Locations": [
+            {
+              "StartLine": 1684,
+              "EndLine": 1687
+            }
+          ]
+        },
+        {
+          "ID": "tslib@2.4.0",
+          "Name": "tslib",
+          "Identifier": {
+            "PURL": "pkg:npm/tslib@2.4.0",
+            "UID": "57fdb62171c26e41"
+          },
+          "Version": "2.4.0",
+          "Indirect": true,
+          "Relationship": "indirect",
+          "Locations": [
+            {
+              "StartLine": 1679,
+              "EndLine": 1682
+            }
+          ]
+        },
+        {
+          "ID": "tslib@2.4.1",
+          "Name": "tslib",
+          "Identifier": {
+            "PURL": "pkg:npm/tslib@2.4.1",
+            "UID": "237d3bf348177d98"
+          },
+          "Version": "2.4.1",
+          "Indirect": true,
+          "Relationship": "indirect",
+          "Locations": [
+            {
+              "StartLine": 1689,
+              "EndLine": 1692
+            }
+          ]
+        },
+        {
+          "ID": "url-toolkit@2.2.5",
+          "Name": "url-toolkit",
+          "Identifier": {
+            "PURL": "pkg:npm/url-toolkit@2.2.5",
+            "UID": "4ba5170a78711f3c"
+          },
+          "Version": "2.2.5",
+          "Indirect": true,
+          "Relationship": "indirect",
+          "Locations": [
+            {
+              "StartLine": 1707,
+              "EndLine": 1710
+            }
+          ]
+        },
+        {
+          "ID": "use-sync-external-store@1.2.0",
+          "Name": "use-sync-external-store",
+          "Identifier": {
+            "PURL": "pkg:npm/use-sync-external-store@1.2.0",
+            "UID": "7e87529ed5d76abf"
+          },
+          "Version": "1.2.0",
+          "Indirect": true,
+          "Relationship": "indirect",
+          "Locations": [
+            {
+              "StartLine": 1712,
+              "EndLine": 1715
+            }
+          ]
+        },
+        {
+          "ID": "videojs-contrib-quality-levels@3.0.0",
+          "Name": "videojs-contrib-quality-levels",
+          "Identifier": {
+            "PURL": "pkg:npm/videojs-contrib-quality-levels@3.0.0",
+            "UID": "82144bfc20dd7019"
+          },
+          "Version": "3.0.0",
+          "Indirect": true,
+          "Relationship": "indirect",
+          "DependsOn": [
+            "global@4.4.0"
+          ],
+          "Locations": [
+            {
+              "StartLine": 1737,
+              "EndLine": 1742
+            }
+          ]
+        },
+        {
+          "ID": "videojs-font@4.1.0",
+          "Name": "videojs-font",
+          "Identifier": {
+            "PURL": "pkg:npm/videojs-font@4.1.0",
+            "UID": "8cfc9965021f1153"
+          },
+          "Version": "4.1.0",
+          "Indirect": true,
+          "Relationship": "indirect",
+          "Locations": [
+            {
+              "StartLine": 1744,
+              "EndLine": 1747
+            }
+          ]
+        },
+        {
+          "ID": "videojs-vtt.js@0.15.4",
+          "Name": "videojs-vtt.js",
+          "Identifier": {
+            "PURL": "pkg:npm/videojs-vtt.js@0.15.4",
+            "UID": "65ca9c530f903c2f"
+          },
+          "Version": "0.15.4",
+          "Indirect": true,
+          "Relationship": "indirect",
+          "DependsOn": [
+            "global@4.4.0"
+          ],
+          "Locations": [
+            {
+              "StartLine": 1749,
+              "EndLine": 1754
+            }
+          ]
+        },
+        {
+          "ID": "wrappy@1.0.2",
+          "Name": "wrappy",
+          "Identifier": {
+            "PURL": "pkg:npm/wrappy@1.0.2",
+            "UID": "e8ca0b971dd062a9"
+          },
+          "Version": "1.0.2",
+          "Indirect": true,
+          "Relationship": "indirect",
+          "Locations": [
+            {
+              "StartLine": 1785,
+              "EndLine": 1788
+            }
+          ]
+        },
+        {
+          "ID": "yaml@1.10.2",
+          "Name": "yaml",
+          "Identifier": {
+            "PURL": "pkg:npm/yaml@1.10.2",
+            "UID": "fcc2f2ea25173746"
+          },
+          "Version": "1.10.2",
+          "Indirect": true,
+          "Relationship": "indirect",
+          "Locations": [
+            {
+              "StartLine": 1790,
+              "EndLine": 1793
+            }
+          ]
+        },
+        {
+          "ID": "@emotion/is-prop-valid@0.8.8",
+          "Name": "@emotion/is-prop-valid",
+          "Identifier": {
+            "PURL": "pkg:npm/%40emotion/is-prop-valid@0.8.8",
+            "UID": "58f90a33f8334c3d"
+          },
+          "Version": "0.8.8",
+          "DependsOn": [
+            "@emotion/memoize@0.7.4"
+          ],
+          "Locations": [
+            {
+              "StartLine": 296,
+              "EndLine": 301
+            }
+          ]
+        },
+        {
+          "ID": "@emotion/memoize@0.7.4",
+          "Name": "@emotion/memoize",
+          "Identifier": {
+            "PURL": "pkg:npm/%40emotion/memoize@0.7.4",
+            "UID": "ba7f7fe585f541f0"
+          },
+          "Version": "0.7.4",
+          "Locations": [
+            {
+              "StartLine": 310,
+              "EndLine": 313
+            }
+          ]
+        },
+        {
+          "ID": "@esbuild/android-arm@0.15.12",
+          "Name": "@esbuild/android-arm",
+          "Identifier": {
+            "PURL": "pkg:npm/%40esbuild/android-arm@0.15.12",
+            "UID": "7fcabfe0f83cea9d"
+          },
+          "Version": "0.15.12",
+          "Locations": [
+            {
+              "StartLine": 382,
+              "EndLine": 385
+            }
+          ]
+        },
+        {
+          "ID": "@esbuild/linux-loong64@0.15.12",
+          "Name": "@esbuild/linux-loong64",
+          "Identifier": {
+            "PURL": "pkg:npm/%40esbuild/linux-loong64@0.15.12",
+            "UID": "cfdf47428e8739d5"
+          },
+          "Version": "0.15.12",
+          "Locations": [
+            {
+              "StartLine": 387,
+              "EndLine": 390
+            }
+          ]
+        },
+        {
+          "ID": "@types/video.js@7.3.51",
+          "Name": "@types/video.js",
+          "Identifier": {
+            "PURL": "pkg:npm/%40types/video.js@7.3.51",
+            "UID": "7062e4981b440d62"
+          },
+          "Version": "7.3.51",
+          "Locations": [
+            {
+              "StartLine": 663,
+              "EndLine": 666
+            }
+          ]
+        },
+        {
+          "ID": "esbuild-android-64@0.15.12",
+          "Name": "esbuild-android-64",
+          "Identifier": {
+            "PURL": "pkg:npm/esbuild-android-64@0.15.12",
+            "UID": "6edfcc0b201b8a1a"
+          },
+          "Version": "0.15.12",
+          "Locations": [
+            {
+              "StartLine": 890,
+              "EndLine": 893
+            }
+          ]
+        },
+        {
+          "ID": "esbuild-android-arm64@0.15.12",
+          "Name": "esbuild-android-arm64",
+          "Identifier": {
+            "PURL": "pkg:npm/esbuild-android-arm64@0.15.12",
+            "UID": "c0059e98108a832f"
+          },
+          "Version": "0.15.12",
+          "Locations": [
+            {
+              "StartLine": 895,
+              "EndLine": 898
+            }
+          ]
+        },
+        {
+          "ID": "esbuild-darwin-64@0.15.12",
+          "Name": "esbuild-darwin-64",
+          "Identifier": {
+            "PURL": "pkg:npm/esbuild-darwin-64@0.15.12",
+            "UID": "6020d141b3229175"
+          },
+          "Version": "0.15.12",
+          "Locations": [
+            {
+              "StartLine": 900,
+              "EndLine": 903
+            }
+          ]
+        },
+        {
+          "ID": "esbuild-darwin-arm64@0.15.12",
+          "Name": "esbuild-darwin-arm64",
+          "Identifier": {
+            "PURL": "pkg:npm/esbuild-darwin-arm64@0.15.12",
+            "UID": "dc8131874365c4b1"
+          },
+          "Version": "0.15.12",
+          "Locations": [
+            {
+              "StartLine": 905,
+              "EndLine": 908
+            }
+          ]
+        },
+        {
+          "ID": "esbuild-freebsd-64@0.15.12",
+          "Name": "esbuild-freebsd-64",
+          "Identifier": {
+            "PURL": "pkg:npm/esbuild-freebsd-64@0.15.12",
+            "UID": "a6867e2d2b27bdc4"
+          },
+          "Version": "0.15.12",
+          "Locations": [
+            {
+              "StartLine": 910,
+              "EndLine": 913
+            }
+          ]
+        },
+        {
+          "ID": "esbuild-freebsd-arm64@0.15.12",
+          "Name": "esbuild-freebsd-arm64",
+          "Identifier": {
+            "PURL": "pkg:npm/esbuild-freebsd-arm64@0.15.12",
+            "UID": "ee578db88778fc82"
+          },
+          "Version": "0.15.12",
+          "Locations": [
+            {
+              "StartLine": 915,
+              "EndLine": 918
+            }
+          ]
+        },
+        {
+          "ID": "esbuild-linux-32@0.15.12",
+          "Name": "esbuild-linux-32",
+          "Identifier": {
+            "PURL": "pkg:npm/esbuild-linux-32@0.15.12",
+            "UID": "727700d7c141ee47"
+          },
+          "Version": "0.15.12",
+          "Locations": [
+            {
+              "StartLine": 920,
+              "EndLine": 923
+            }
+          ]
+        },
+        {
+          "ID": "esbuild-linux-64@0.15.12",
+          "Name": "esbuild-linux-64",
+          "Identifier": {
+            "PURL": "pkg:npm/esbuild-linux-64@0.15.12",
+            "UID": "81063619b6559a1e"
+          },
+          "Version": "0.15.12",
+          "Locations": [
+            {
+              "StartLine": 925,
+              "EndLine": 928
+            }
+          ]
+        },
+        {
+          "ID": "esbuild-linux-arm@0.15.12",
+          "Name": "esbuild-linux-arm",
+          "Identifier": {
+            "PURL": "pkg:npm/esbuild-linux-arm@0.15.12",
+            "UID": "5abbf5eaef19d304"
+          },
+          "Version": "0.15.12",
+          "Locations": [
+            {
+              "StartLine": 935,
+              "EndLine": 938
+            }
+          ]
+        },
+        {
+          "ID": "esbuild-linux-arm64@0.15.12",
+          "Name": "esbuild-linux-arm64",
+          "Identifier": {
+            "PURL": "pkg:npm/esbuild-linux-arm64@0.15.12",
+            "UID": "24af21941d9a61ff"
+          },
+          "Version": "0.15.12",
+          "Locations": [
+            {
+              "StartLine": 930,
+              "EndLine": 933
+            }
+          ]
+        },
+        {
+          "ID": "esbuild-linux-mips64le@0.15.12",
+          "Name": "esbuild-linux-mips64le",
+          "Identifier": {
+            "PURL": "pkg:npm/esbuild-linux-mips64le@0.15.12",
+            "UID": "9052f94714e3c0f3"
+          },
+          "Version": "0.15.12",
+          "Locations": [
+            {
+              "StartLine": 940,
+              "EndLine": 943
+            }
+          ]
+        },
+        {
+          "ID": "esbuild-linux-ppc64le@0.15.12",
+          "Name": "esbuild-linux-ppc64le",
+          "Identifier": {
+            "PURL": "pkg:npm/esbuild-linux-ppc64le@0.15.12",
+            "UID": "b0acfd0bd76b7163"
+          },
+          "Version": "0.15.12",
+          "Locations": [
+            {
+              "StartLine": 945,
+              "EndLine": 948
+            }
+          ]
+        },
+        {
+          "ID": "esbuild-linux-riscv64@0.15.12",
+          "Name": "esbuild-linux-riscv64",
+          "Identifier": {
+            "PURL": "pkg:npm/esbuild-linux-riscv64@0.15.12",
+            "UID": "944eea46bafe460d"
+          },
+          "Version": "0.15.12",
+          "Locations": [
+            {
+              "StartLine": 950,
+              "EndLine": 953
+            }
+          ]
+        },
+        {
+          "ID": "esbuild-linux-s390x@0.15.12",
+          "Name": "esbuild-linux-s390x",
+          "Identifier": {
+            "PURL": "pkg:npm/esbuild-linux-s390x@0.15.12",
+            "UID": "d03f7e55a10319d6"
+          },
+          "Version": "0.15.12",
+          "Locations": [
+            {
+              "StartLine": 955,
+              "EndLine": 958
+            }
+          ]
+        },
+        {
+          "ID": "esbuild-netbsd-64@0.15.12",
+          "Name": "esbuild-netbsd-64",
+          "Identifier": {
+            "PURL": "pkg:npm/esbuild-netbsd-64@0.15.12",
+            "UID": "de40484c63719c94"
+          },
+          "Version": "0.15.12",
+          "Locations": [
+            {
+              "StartLine": 960,
+              "EndLine": 963
+            }
+          ]
+        },
+        {
+          "ID": "esbuild-openbsd-64@0.15.12",
+          "Name": "esbuild-openbsd-64",
+          "Identifier": {
+            "PURL": "pkg:npm/esbuild-openbsd-64@0.15.12",
+            "UID": "a78180f76309ad3d"
+          },
+          "Version": "0.15.12",
+          "Locations": [
+            {
+              "StartLine": 965,
+              "EndLine": 968
+            }
+          ]
+        },
+        {
+          "ID": "esbuild-sunos-64@0.15.12",
+          "Name": "esbuild-sunos-64",
+          "Identifier": {
+            "PURL": "pkg:npm/esbuild-sunos-64@0.15.12",
+            "UID": "be10fef9e362a6ec"
+          },
+          "Version": "0.15.12",
+          "Locations": [
+            {
+              "StartLine": 970,
+              "EndLine": 973
+            }
+          ]
+        },
+        {
+          "ID": "esbuild-windows-32@0.15.12",
+          "Name": "esbuild-windows-32",
+          "Identifier": {
+            "PURL": "pkg:npm/esbuild-windows-32@0.15.12",
+            "UID": "f5d90452dd1f5183"
+          },
+          "Version": "0.15.12",
+          "Locations": [
+            {
+              "StartLine": 975,
+              "EndLine": 978
+            }
+          ]
+        },
+        {
+          "ID": "esbuild-windows-64@0.15.12",
+          "Name": "esbuild-windows-64",
+          "Identifier": {
+            "PURL": "pkg:npm/esbuild-windows-64@0.15.12",
+            "UID": "72ff0a81ade52c02"
+          },
+          "Version": "0.15.12",
+          "Locations": [
+            {
+              "StartLine": 980,
+              "EndLine": 983
+            }
+          ]
+        },
+        {
+          "ID": "esbuild-windows-arm64@0.15.12",
+          "Name": "esbuild-windows-arm64",
+          "Identifier": {
+            "PURL": "pkg:npm/esbuild-windows-arm64@0.15.12",
+            "UID": "271192ca49c90ebd"
+          },
+          "Version": "0.15.12",
+          "Locations": [
+            {
+              "StartLine": 985,
+              "EndLine": 988
+            }
+          ]
+        },
+        {
+          "ID": "fsevents@2.3.2",
+          "Name": "fsevents",
+          "Identifier": {
+            "PURL": "pkg:npm/fsevents@2.3.2",
+            "UID": "dd0250ee02e8ba39"
+          },
+          "Version": "2.3.2",
+          "Locations": [
+            {
+              "StartLine": 1064,
+              "EndLine": 1067
+            }
+          ]
+        }
+      ],
+      "Vulnerabilities": [
+        {
+          "VulnerabilityID": "CVE-2025-27789",
+          "PkgID": "@babel/runtime@7.20.0",
+          "PkgName": "@babel/runtime",
+          "PkgIdentifier": {
+            "PURL": "pkg:npm/%40babel/runtime@7.20.0",
+            "UID": "6ce7630cf14099ce"
+          },
+          "InstalledVersion": "7.20.0",
+          "FixedVersion": "7.26.10, 8.0.0-alpha.17",
+          "Status": "fixed",
+          "SeveritySource": "ghsa",
+          "PrimaryURL": "https://avd.aquasec.com/nvd/cve-2025-27789",
+          "DataSource": {
+            "ID": "ghsa",
+            "Name": "GitHub Security Advisory npm",
+            "URL": "https://github.com/advisories?query=type%3Areviewed+ecosystem%3Anpm"
+          },
+          "Title": "Babel has inefficient RegExp complexity in generated code with .replace when transpiling named capturing groups",
+          "Description": "Babel is a compiler for writing next generation JavaScript. When using versions of Babel prior to 7.26.10 and 8.0.0-alpha.17 to compile regular expression named capturing groups, Babel will generate a polyfill for the `.replace` method that has quadratic complexity on some specific replacement pattern strings (i.e. the second argument passed to `.replace`). Generated code is vulnerable if all the following conditions are true: Using Babel to compile regular expression named capturing groups, using the `.replace` method on a regular expression that contains named capturing groups, and the code using untrusted strings as the second argument of `.replace`. This problem has been fixed in `@babel/helpers` and `@babel/runtime` 7.26.10 and 8.0.0-alpha.17. It's likely that individual users do not directly depend on `@babel/helpers`, and instead depend on `@babel/core` (which itself depends on `@babel/helpers`). Upgrading to `@babel/core` 7.26.10 is not required, but it guarantees use of a new enough `@babel/helpers` version. Note that just updating Babel dependencies is not enough; one will also need to re-compile the code. No known workarounds are available.",
+          "Severity": "MEDIUM",
+          "CweIDs": [
+            "CWE-1333"
+          ],
+          "VendorSeverity": {
+            "ghsa": 2
+          },
+          "CVSS": {
+            "ghsa": {
+              "V3Vector": "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+              "V3Score": 6.2
+            }
+          },
+          "References": [
+            "https://github.com/babel/babel",
+            "https://github.com/babel/babel/commit/d5952e80c0faa5ec20e35085531b6e572d31dad4",
+            "https://github.com/babel/babel/pull/17173",
+            "https://github.com/babel/babel/security/advisories/GHSA-968p-4wvh-cqc8",
+            "https://nvd.nist.gov/vuln/detail/CVE-2025-27789"
+          ],
+          "PublishedDate": "2025-03-11T20:15:18.33Z",
+          "LastModifiedDate": "2025-03-11T20:15:18.33Z"
+        },
+        {
+          "VulnerabilityID": "CVE-2025-27789",
+          "PkgID": "@babel/runtime@7.20.13",
+          "PkgName": "@babel/runtime",
+          "PkgIdentifier": {
+            "PURL": "pkg:npm/%40babel/runtime@7.20.13",
+            "UID": "19e54969dbb86208"
+          },
+          "InstalledVersion": "7.20.13",
+          "FixedVersion": "7.26.10, 8.0.0-alpha.17",
+          "Status": "fixed",
+          "SeveritySource": "ghsa",
+          "PrimaryURL": "https://avd.aquasec.com/nvd/cve-2025-27789",
+          "DataSource": {
+            "ID": "ghsa",
+            "Name": "GitHub Security Advisory npm",
+            "URL": "https://github.com/advisories?query=type%3Areviewed+ecosystem%3Anpm"
+          },
+          "Title": "Babel has inefficient RegExp complexity in generated code with .replace when transpiling named capturing groups",
+          "Description": "Babel is a compiler for writing next generation JavaScript. When using versions of Babel prior to 7.26.10 and 8.0.0-alpha.17 to compile regular expression named capturing groups, Babel will generate a polyfill for the `.replace` method that has quadratic complexity on some specific replacement pattern strings (i.e. the second argument passed to `.replace`). Generated code is vulnerable if all the following conditions are true: Using Babel to compile regular expression named capturing groups, using the `.replace` method on a regular expression that contains named capturing groups, and the code using untrusted strings as the second argument of `.replace`. This problem has been fixed in `@babel/helpers` and `@babel/runtime` 7.26.10 and 8.0.0-alpha.17. It's likely that individual users do not directly depend on `@babel/helpers`, and instead depend on `@babel/core` (which itself depends on `@babel/helpers`). Upgrading to `@babel/core` 7.26.10 is not required, but it guarantees use of a new enough `@babel/helpers` version. Note that just updating Babel dependencies is not enough; one will also need to re-compile the code. No known workarounds are available.",
+          "Severity": "MEDIUM",
+          "CweIDs": [
+            "CWE-1333"
+          ],
+          "VendorSeverity": {
+            "ghsa": 2
+          },
+          "CVSS": {
+            "ghsa": {
+              "V3Vector": "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+              "V3Score": 6.2
+            }
+          },
+          "References": [
+            "https://github.com/babel/babel",
+            "https://github.com/babel/babel/commit/d5952e80c0faa5ec20e35085531b6e572d31dad4",
+            "https://github.com/babel/babel/pull/17173",
+            "https://github.com/babel/babel/security/advisories/GHSA-968p-4wvh-cqc8",
+            "https://nvd.nist.gov/vuln/detail/CVE-2025-27789"
+          ],
+          "PublishedDate": "2025-03-11T20:15:18.33Z",
+          "LastModifiedDate": "2025-03-11T20:15:18.33Z"
+        },
+        {
+          "VulnerabilityID": "CVE-2025-5889",
+          "PkgID": "brace-expansion@1.1.11",
+          "PkgName": "brace-expansion",
+          "PkgIdentifier": {
+            "PURL": "pkg:npm/brace-expansion@1.1.11",
+            "UID": "1066c416faa77aa5"
+          },
+          "InstalledVersion": "1.1.11",
+          "FixedVersion": "2.0.2, 1.1.12, 3.0.1, 4.0.1",
+          "Status": "fixed",
+          "SeveritySource": "ghsa",
+          "PrimaryURL": "https://avd.aquasec.com/nvd/cve-2025-5889",
+          "DataSource": {
+            "ID": "ghsa",
+            "Name": "GitHub Security Advisory npm",
+            "URL": "https://github.com/advisories?query=type%3Areviewed+ecosystem%3Anpm"
+          },
+          "Title": "brace-expansion: juliangruber brace-expansion index.js expand redos",
+          "Description": "A vulnerability was found in juliangruber brace-expansion up to 1.1.11/2.0.1/3.0.0/4.0.0. It has been rated as problematic. Affected by this issue is the function expand of the file index.js. The manipulation leads to inefficient regular expression complexity. The attack may be launched remotely. The complexity of an attack is rather high. The exploitation is known to be difficult. The exploit has been disclosed to the public and may be used. Upgrading to version 1.1.12, 2.0.2, 3.0.1 and 4.0.1 is able to address this issue. The name of the patch is a5b98a4f30d7813266b221435e1eaaf25a1b0ac5. It is recommended to upgrade the affected component.",
+          "Severity": "LOW",
+          "CweIDs": [
+            "CWE-400",
+            "CWE-1333"
+          ],
+          "VendorSeverity": {
+            "amazon": 2,
+            "cbl-mariner": 1,
+            "ghsa": 1,
+            "redhat": 1
+          },
+          "CVSS": {
+            "ghsa": {
+              "V3Vector": "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:N/I:N/A:L",
+              "V3Score": 3.1
+            },
+            "redhat": {
+              "V3Vector": "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:N/I:N/A:L",
+              "V3Score": 3.1
+            }
+          },
+          "References": [
+            "https://access.redhat.com/security/cve/CVE-2025-5889",
+            "https://gist.github.com/mmmsssttt404/37a40ce7d6e5ca604858fe30814d9466",
+            "https://github.com/juliangruber/brace-expansion",
+            "https://github.com/juliangruber/brace-expansion/commit/0b6a9781e18e9d2769bb2931f4856d1360243ed2",
+            "https://github.com/juliangruber/brace-expansion/commit/15f9b3c75ebf5988198241fecaebdc45eff28a9f",
+            "https://github.com/juliangruber/brace-expansion/commit/36603d5f3599a37af9e85eda30acd7d28599c36e",
+            "https://github.com/juliangruber/brace-expansion/commit/c3c73c8b088defc70851843be88ccc3af08e7217",
+            "https://github.com/juliangruber/brace-expansion/pull/65/commits/a5b98a4f30d7813266b221435e1eaaf25a1b0ac5",
+            "https://github.com/juliangruber/brace-expansion/releases/tag/v4.0.1",
+            "https://nvd.nist.gov/vuln/detail/CVE-2025-5889",
+            "https://vuldb.com/?ctiid.311660",
+            "https://vuldb.com/?id.311660",
+            "https://vuldb.com/?submit.585717",
+            "https://www.cve.org/CVERecord?id=CVE-2025-5889"
+          ],
+          "PublishedDate": "2025-06-09T19:15:25.46Z",
+          "LastModifiedDate": "2025-06-12T16:06:47.857Z"
+        },
+        {
+          "VulnerabilityID": "CVE-2022-46175",
+          "PkgID": "json5@2.2.1",
+          "PkgName": "json5",
+          "PkgIdentifier": {
+            "PURL": "pkg:npm/json5@2.2.1",
+            "UID": "a5b3484b1c285c04"
+          },
+          "InstalledVersion": "2.2.1",
+          "FixedVersion": "2.2.2, 1.0.2",
+          "Status": "fixed",
+          "SeveritySource": "ghsa",
+          "PrimaryURL": "https://avd.aquasec.com/nvd/cve-2022-46175",
+          "DataSource": {
+            "ID": "ghsa",
+            "Name": "GitHub Security Advisory npm",
+            "URL": "https://github.com/advisories?query=type%3Areviewed+ecosystem%3Anpm"
+          },
+          "Title": "json5: Prototype Pollution in JSON5 via Parse Method",
+          "Description": "JSON5 is an extension to the popular JSON file format that aims to be easier to write and maintain by hand (e.g. for config files). The `parse` method of the JSON5 library before and including versions 1.0.1 and 2.2.1 does not restrict parsing of keys named `__proto__`, allowing specially crafted strings to pollute the prototype of the resulting object. This vulnerability pollutes the prototype of the object returned by `JSON5.parse` and not the global Object prototype, which is the commonly understood definition of Prototype Pollution. However, polluting the prototype of a single object can have significant security impact for an application if the object is later used in trusted operations. This vulnerability could allow an attacker to set arbitrary and unexpected keys on the object returned from `JSON5.parse`. The actual impact will depend on how applications utilize the returned object and how they filter unwanted keys, but could include denial of service, cross-site scripting, elevation of privilege, and in extreme cases, remote code execution. `JSON5.parse` should restrict parsing of `__proto__` keys when parsing JSON strings to objects. As a point of reference, the `JSON.parse` method included in JavaScript ignores `__proto__` keys. Simply changing `JSON5.parse` to `JSON.parse` in the examples above mitigates this vulnerability. This vulnerability is patched in json5 versions 1.0.2, 2.2.2, and later.",
+          "Severity": "HIGH",
+          "CweIDs": [
+            "CWE-1321"
+          ],
+          "VendorSeverity": {
+            "azure": 3,
+            "ghsa": 3,
+            "nvd": 3,
+            "photon": 3,
+            "redhat": 2,
+            "ubuntu": 2
+          },
+          "CVSS": {
+            "ghsa": {
+              "V3Vector": "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:L/A:H",
+              "V3Score": 7.1
+            },
+            "nvd": {
+              "V3Vector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
+              "V3Score": 8.8
+            },
+            "redhat": {
+              "V3Vector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
+              "V3Score": 8.8
+            }
+          },
+          "References": [
+            "https://access.redhat.com/security/cve/CVE-2022-46175",
+            "https://github.com/json5/json5",
+            "https://github.com/json5/json5/commit/62a65408408d40aeea14c7869ed327acead12972",
+            "https://github.com/json5/json5/commit/7774c1097993bc3ce9f0ac4b722a32bf7d6871c8",
+            "https://github.com/json5/json5/issues/199",
+            "https://github.com/json5/json5/issues/295",
+            "https://github.com/json5/json5/pull/298",
+            "https://github.com/json5/json5/security/advisories/GHSA-9c47-m6qq-7p4h",
+            "https://lists.debian.org/debian-lts-announce/2023/11/msg00021.html",
+            "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/3S26TLPLVFAJTUN3VIXFDEBEXDYO22CE/",
+            "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/3S26TLPLVFAJTUN3VIXFDEBEXDYO22CE",
+            "https://nvd.nist.gov/vuln/detail/CVE-2022-46175",
+            "https://ubuntu.com/security/notices/USN-6758-1",
+            "https://www.cve.org/CVERecord?id=CVE-2022-46175"
+          ],
+          "PublishedDate": "2022-12-24T04:15:08.787Z",
+          "LastModifiedDate": "2024-11-21T07:30:15.757Z"
+        },
+        {
+          "VulnerabilityID": "CVE-2025-57352",
+          "PkgID": "min-document@2.19.0",
+          "PkgName": "min-document",
+          "PkgIdentifier": {
+            "PURL": "pkg:npm/min-document@2.19.0",
+            "UID": "8bb6a106eaad1102"
+          },
+          "InstalledVersion": "2.19.0",
+          "Status": "affected",
+          "SeveritySource": "ghsa",
+          "PrimaryURL": "https://avd.aquasec.com/nvd/cve-2025-57352",
+          "DataSource": {
+            "ID": "ghsa",
+            "Name": "GitHub Security Advisory npm",
+            "URL": "https://github.com/advisories?query=type%3Areviewed+ecosystem%3Anpm"
+          },
+          "Title": "min-document: min-document prototype pollution",
+          "Description": "A vulnerability exists in the 'min-document' package prior to version 2.19.0, stemming from improper handling of namespace operations in the removeAttributeNS method. By processing malicious input involving the __proto__ property, an attacker can manipulate the prototype chain of JavaScript objects, leading to denial of service or arbitrary code execution. This issue arises from insufficient validation of attribute namespace removal operations, allowing unintended modification of critical object prototypes. The vulnerability remains unaddressed in the latest available version.",
+          "Severity": "LOW",
+          "CweIDs": [
+            "CWE-1321"
+          ],
+          "VendorSeverity": {
+            "ghsa": 1,
+            "redhat": 2
+          },
+          "CVSS": {
+            "redhat": {
+              "V3Vector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:L",
+              "V3Score": 5.3
+            }
+          },
+          "References": [
+            "https://access.redhat.com/security/cve/CVE-2025-57352",
+            "https://github.com/Raynos/min-document",
+            "https://github.com/Raynos/min-document/issues/54",
+            "https://github.com/VulnSageAgent/PoCs/tree/main/JavaScript/prototype-pollution/CVE-2025-57352",
+            "https://nvd.nist.gov/vuln/detail/CVE-2025-57352",
+            "https://www.cve.org/CVERecord?id=CVE-2025-57352"
+          ],
+          "PublishedDate": "2025-09-24T18:15:41.637Z",
+          "LastModifiedDate": "2025-09-26T14:32:53.583Z"
+        }
+      ]
+    }
+  ]
+}
